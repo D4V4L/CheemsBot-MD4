@@ -58,12 +58,12 @@ global.vcardowner = [212693222334'] //ur owner number
 global.ownername = "🦄Yahya you" //ur owner name
 global.ytname = "IN : _" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "morocco, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.owner = ['212693222334']
+global.ownertag = '212693222334' //ur tag number
+global.botname = 'Bot yahya v2' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'باغي سكربت هه' //script link
